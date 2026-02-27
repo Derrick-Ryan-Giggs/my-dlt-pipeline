@@ -184,7 +184,7 @@ git init
 # Stage only the core project files
 git add open_library_pipeline.py open_library_authors_marimo.py open_library-docs.yaml requirements.txt .gitignore
 
-git commit -m "Initial Open Library dlt pipeline and marimo notebook"
+git commit -m "Your Commit Message"
 ```
 
 Create a new empty repository on GitHub (via the web UI), then:
